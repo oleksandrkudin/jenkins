@@ -5,3 +5,4 @@ print('This change and commit from PC. Job run must be invoked automaticaly by G
 print('This change and commit from PC after adding some right to token. Job run must be invoked automaticaly by Github after commit!!!')
 print('Trigger commit')
 print('Trigger commit from Hithub web!!!')
+print('Cloned to linux machine, do commit and push to origin!!!')
